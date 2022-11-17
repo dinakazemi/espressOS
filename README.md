@@ -18,9 +18,6 @@ EspressOS is a mobile OS that supports the following features:
 - Get latest and oldest messages
 - Run applications
 
-## How to run the program?
-
-
 ## Factory Default
 Every phone manufactured and installed with EspressOS OS. The default factory settings are:
 - Phone is off
